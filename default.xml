@@ -7,11 +7,19 @@
            revision="refs/tags/android-6.0.0_r26" />
 
   <remote  name="github"
-           fetch=".."
-           review="review.cyanogenmod.org" />
+           fetch="https://github.com />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
+           
+  <remote name="lead"
+          fetch="https://github.com/leadpoizon/" />
+
+  <remote name="nexus"
+          fetch="https://github.com/PureNexus/" />
+
+  <remote name="chroma"
+          fetch="https://github.com/Chroma-Aosp/" />
 
   <default revision="refs/heads/cm-13.0"
            remote="github"
