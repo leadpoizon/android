@@ -25,6 +25,9 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+           
+<!-- Proprietary Vendors -->
+  <project path="vendor/motorola" name="proprietary_vendor_moto" remote="nexus" revision="mm" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
