@@ -27,7 +27,7 @@
            sync-j="4" />
            
 <!-- Proprietary Vendors -->
-  <project path="vendor/motorola" name="proprietary_vendor_moto" remote="nexus" revision="mm" />
+  <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" />
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
