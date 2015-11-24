@@ -33,7 +33,6 @@
   
 <!-- qcom generic -->
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
-  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" />  
 
 <!-- BEGIN CYANOGENMOD -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
