@@ -29,7 +29,9 @@
 <!-- Proprietary Vendors -->
   <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" />
   
-  <project path="kernel/motorola/msm8974" name="CyanogenMod/android_kernel_motorola_msm8974" />
+<!-- shamu -->
+  <project path="device/moto/shamu" name="CyanogenMod/android_device_moto_shamu" />
+  <project path="kernel/moto/shamu" name="CyanogenMod/android_kernel_moto_shamu" />
   
 <!-- qcom generic -->
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" />
